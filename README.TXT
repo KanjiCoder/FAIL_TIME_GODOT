@@ -1,0 +1,7 @@
+
+    WRONG_REPO_MY_DUDE , YOU_WANTED :
+
+    www.github.com/KANJICODER/GODOT_FAIL_TIME
+
+    YES : GODOT_FAIL_TIME <-- YES , GOOD !!!!!!!!!!!!!!
+    not : FAIL_TIME_GODOT <-- FLIP THIS THE FUCK AROUND
